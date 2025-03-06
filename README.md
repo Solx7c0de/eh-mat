@@ -1,5 +1,5 @@
 # eh-mat
-mids syllabus related material (gfg, youtube, etc)
+ syllabus related material (gfg, youtube, etc)
 
 links:
 youtube: network arch..
